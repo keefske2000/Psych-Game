@@ -1,24 +1,30 @@
 header {
 
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     font-style: italic;
 
     
 }
 
+
+
+
 .mainContainer {
 
     text-align: center;
     font-size: 50px;
-    
+    margin: 250px;
+    padding: 50px;
+    animation-name: example;
+    animation-duration: 600s;
 
 }
 
 body {
+     background-color: orange;
     
-    animation-name: example;
-    animation-duration: 300s;
+     
 }
 
 @keyframes example {
@@ -30,5 +36,6 @@ body {
 
 #alphagame {
     color: red;
+    
     
 }
