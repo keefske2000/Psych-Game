@@ -1,5 +1,5 @@
 
-   <script src="assets/javascript/game.js"></script>
+   
   
   
   // Creates an array that lists out all of the options (Rock, Paper, or Scissors).
